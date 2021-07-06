@@ -17,7 +17,7 @@ import (
 	bananaphone "github.com/C-Sto/BananaPhone/pkg/BananaPhone"
 )
 
-const originalURL = `https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20200816/mimikatz_trunk.zip`
+const originalURL = `https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20210705b/mimikatz_trunk.zip`
 
 var prefix string
 
