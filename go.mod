@@ -1,4 +1,4 @@
-module github.com/vyrus001/go-mimikatz
+module github.com/Nag1bat0r/go-mimikatz
 
 go 1.15
 
